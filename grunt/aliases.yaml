@@ -1,0 +1,11 @@
+default:
+  - prod
+dev:
+  - 'concurrent:devFirst'
+  - 'concurrent:devSecond'
+test:
+  - dev
+  - 'concurrent:testFirst'
+prod:
+  - 'concurrent:prodFirst'
+  - 'concurrent:prodSecond'

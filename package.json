@@ -21,7 +21,7 @@
     ],
     "dependencies": {
         "express": "*",
-        "cluster": "*",
+        "jade": "*",
         "moment": "*"
     },
     "devDependencies": {
