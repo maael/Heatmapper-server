@@ -1,12 +1,16 @@
+@import '_variables';
 .header {
     background-color: #333333;
     display: block;
-    height: 15%;
+    height: 5vh;
     width: 100%;
 }
 .splash {
-    background-color: #550000;
+    background-color: $splash-bg;
+    color: $splash-color;
     display: block;
+    font-size: 10vh;
     height: 30vh;
+    text-align: center;
     width: 100%;
 }

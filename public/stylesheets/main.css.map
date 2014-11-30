@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "file": "main.css",
+  "sources": ["..\/src\/sass\/main.scss","..\/src\/sass\/_variables.scss"],
+  "names": [],
+  "mappings": ";;;;AACA;EACE,aCUc"
+}

@@ -7,7 +7,7 @@ module.exports = {
 
     // Dev tasks
     devFirst: [
-        'clean'
+        //'clean'
     ],
     devSecond: [
         'sass:dev',

@@ -1,15 +1,21 @@
-/* line 1, E:/Dropbox/GitHub/Heatmapper-server/public/src/sass/index.scss */
+/* Colours */
+/* Element Values */
+/* Fonts */
+/* line 2, E:/Dropbox/GitHub/Heatmapper-server/public/src/sass/index.scss */
 .header {
   background-color: #333333;
   display: block;
-  height: 15%;
+  height: 5vh;
   width: 100%; }
 
-/* line 7, E:/Dropbox/GitHub/Heatmapper-server/public/src/sass/index.scss */
+/* line 8, E:/Dropbox/GitHub/Heatmapper-server/public/src/sass/index.scss */
 .splash {
   background-color: #550000;
+  color: #FFFFFF;
   display: block;
+  font-size: 10vh;
   height: 30vh;
+  text-align: center;
   width: 100%; }
 
 /*# sourceMappingURL=index.css.map */
