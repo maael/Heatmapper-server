@@ -4,18 +4,26 @@
 /* line 2, E:/Dropbox/GitHub/Heatmapper-server/public/src/sass/index.scss */
 .header {
   background-color: #333333;
+  color: #FFFFFF;
   display: block;
-  height: 5vh;
+  height: 3vh;
+  line-height: 3vh;
   width: 100%; }
 
-/* line 8, E:/Dropbox/GitHub/Heatmapper-server/public/src/sass/index.scss */
+/* line 10, E:/Dropbox/GitHub/Heatmapper-server/public/src/sass/index.scss */
 .splash {
   background-color: #550000;
   color: #FFFFFF;
   display: block;
   font-size: 10vh;
-  height: 30vh;
+  height: 20vh;
+  line-height: 20vh;
   text-align: center;
   width: 100%; }
+
+/* line 20, E:/Dropbox/GitHub/Heatmapper-server/public/src/sass/index.scss */
+.wrapper {
+  margin: 5vh auto;
+  width: 80%; }
 
 /*# sourceMappingURL=index.css.map */

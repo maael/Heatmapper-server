@@ -4,7 +4,9 @@ module.exports = {
     options: {
         limit: 4
     },
-
+    devWatch: [
+        "watch"
+    ],
     // Dev tasks
     devFirst: [
         //'clean'

@@ -3,5 +3,5 @@
   "file": "index.css",
   "sources": ["..\/src\/sass\/index.scss","..\/src\/sass\/_variables.scss"],
   "names": [],
-  "mappings": ";;;;AACA;EACI,kBAAkB;EAClB,SAAS;EACT,QAAQ;EACR,OAAO;;;AAEX;EACI,kBCPY;EDQZ,OCAY;EDCZ,SAAS;EACT,WAAW;EACX,QAAQ;EACR,YAAY;EACZ,OAAO"
+  "mappings": ";;;;AACA;EACI,kBAAkB;EAClB,OAAO;EACP,SAAS;EACT,QAAQ;EACR,aAAa;EACb,OAAO;;;AAEX;EACI,kBCTY;EDUZ,OCFY;EDGZ,SAAS;EACT,WAAW;EACX,QAAQ;EACR,aAAa;EACb,YAAY;EACZ,OAAO;;;AAEX;EACI,QAAQ;EACR,OAAO"
 }

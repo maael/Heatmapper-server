@@ -1,5 +1,21 @@
 doctype html
 html
-  include _header
+  head
+    title Heatmapper
+    meta(name="viewport", content="width=device-width, initial-scale=1")
+    link(rel="stylesheet", href="/stylesheets/reset.css")
+    link(rel="stylesheet", href="/stylesheets/main.css")
+    link(rel="stylesheet", href="/stylesheets/index.css")
+    link(rel="stylesheet", href="/fonts/heatmapper/style.css")
+    block styles
   body
+    .header
+      a home
+    .splash
+      h1 
+        span.icon-hm-logo
+          span.path1
+          span.path2
+        |  Heatmapper
     block content
+    block scripts

@@ -1,0 +1,88 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M361.225 2.597c24.031 190.528-244.289 513.463-310.681 611.064-195.178 286.924 238.679 416.878 367.325 408.52 429.537-27.906 452.759-243.336 429.118-343.294-43.573-184.238-485.762-676.29-485.762-676.29z",
+					"M393.318 501.591c12.292 97.458-124.957 262.643-158.918 312.567-99.836 146.765 55.65 215.548 187.892 208.964 266.108-13.251 238.532-126.627 219.499-175.6-28.355-72.961-248.473-345.931-248.473-345.931z"
+				],
+				"attrs": [
+					{
+						"fill": "rgba(183, 28, 28, 1)"
+					},
+					{
+						"fill": "rgba(255, 152, 0, 1)"
+					}
+				],
+				"isMulticolor": true,
+				"width": 854,
+				"grid": 0,
+				"tags": [
+					"logo"
+				]
+			},
+			"attrs": [
+				{
+					"fill": "rgba(183, 28, 28, 1)"
+				},
+				{
+					"fill": "rgba(255, 152, 0, 1)"
+				}
+			],
+			"properties": {
+				"order": 1,
+				"id": 0,
+				"prevSize": 96,
+				"code": 58880,
+				"codes": [
+					58880,
+					58881
+				],
+				"name": "hm-logo"
+			},
+			"setIdx": 0,
+			"iconIdx": 0
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "icomoon"
+	},
+	"preferences": {
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "icomoon"
+			},
+			"showGlyphs": true,
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"resetPoint": 58880,
+			"showQuickUse": true,
+			"quickUsageToken": false,
+			"showMetrics": true,
+			"showMetadata": false
+		},
+		"imagePref": {
+			"color": 0,
+			"height": 32,
+			"columns": 16,
+			"margin": 16,
+			"png": false,
+			"sprites": true
+		},
+		"historySize": 100,
+		"showCodes": true,
+		"gridSize": 16,
+		"showLiga": false,
+		"showGrid": true,
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true
+	}
+}

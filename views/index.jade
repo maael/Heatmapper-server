@@ -1,10 +1,20 @@
 extends fragments/_layout
-
-block styles
-  link(rel="stylesheet", href="/stylesheets/index.css")
-
-block content
-  .header
-    a home
-  .splash 
-    h1 Heatmapper
+append styles
+  link(rel="stylesheet", href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/zenburn.min.css")
+append scripts
+  script(src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js")
+  script.
+    hljs.initHighlightingOnLoad();
+append content
+  .wrapper
+    section.description
+      | Heatmapper is a simple service to record user interaction on websites.
+    section.usage
+      h2 Usage
+      pre: code.javascript
+        | mapper = new Heatmap({'startBtn':'startBtn','endBtn':'endBtn'});
+        | mapper.startMapping();
+        | mapper.stopMapping();
+    section.download
+      h2 Download
+      a(href="https://github.com/maael/Heatmapper/releases") Releases Page

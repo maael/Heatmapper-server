@@ -9,3 +9,5 @@ test:
 prod:
   - 'concurrent:prodFirst'
   - 'concurrent:prodSecond'
+watch:
+  - 'concurrent:devWatch'

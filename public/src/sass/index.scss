@@ -1,8 +1,10 @@
 @import '_variables';
 .header {
     background-color: #333333;
+    color: #FFFFFF;
     display: block;
-    height: 5vh;
+    height: 3vh;
+    line-height: 3vh;
     width: 100%;
 }
 .splash {
@@ -10,7 +12,12 @@
     color: $splash-color;
     display: block;
     font-size: 10vh;
-    height: 30vh;
+    height: 20vh;
+    line-height: 20vh;
     text-align: center;
     width: 100%;
+}
+.wrapper {
+    margin: 5vh auto;
+    width: 80%;
 }

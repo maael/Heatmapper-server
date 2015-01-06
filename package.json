@@ -1,40 +1,41 @@
 {
-    "name": "Heatmapper-server",
-    "version": "0.0.1",
-    "description": "A system to store and view heatmaps made via the heatmapper tool.",
-    "author": "Matthew Elphick <m.a.elphick-12@student.lboro.ac.uk>",
-    "scripts": {
-        "test": "",
-        "start": "node index.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": ""
-    },
-    "bugs": {
-        "url": ""
-    },
-    "keywords": [
-        "heatmap",
-        "user interface",
-        "interaction"
-    ],
-    "dependencies": {
-        "express": "*",
-        "jade": "*",
-        "moment": "*"
-    },
-    "devDependencies": {
-        "mocha": "*",
-        "chai": "*",
-        "grunt": "^0.4.5",
-        "grunt-concurrent": "^1.0.0",
-        "grunt-contrib-clean": "^0.6.0",
-        "grunt-contrib-uglify": "^0.6.0",
-        "grunt-contrib-jshint": "^0.10.0",
-        "grunt-sass": "^0.16.1",
-        "load-grunt-config": "^0.13.1",
-        "time-grunt": "^1.0.0"
-    },
-    "private": true
+  "name": "Heatmapper-server",
+  "version": "0.0.1",
+  "description": "A system to store and view heatmaps made via the heatmapper tool.",
+  "author": "Matthew Elphick <m.a.elphick-12@student.lboro.ac.uk>",
+  "scripts": {
+    "test": "",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [
+    "heatmap",
+    "user interface",
+    "interaction"
+  ],
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "moment": "*"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "grunt": "^0.4.5",
+    "grunt-concurrent": "^1.0.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sass": "^0.16.1",
+    "load-grunt-config": "^0.13.1",
+    "mocha": "*",
+    "time-grunt": "^1.0.0"
+  },
+  "private": true
 }
